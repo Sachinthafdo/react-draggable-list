@@ -44,8 +44,8 @@
     "@babel/preset-typescript": "^7.6.0",
     "@types/classnames": "^2.2.9",
     "@types/jest": "^29.5.12",
-    "@types/react": "^17.0.24",
-    "@types/react-dom": "^17.0.9",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
     "@types/react-motion": "^0.0.33",
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
@@ -61,13 +61,13 @@
     "pdelay": "^2.0.0",
     "prettier": "~2.4.1",
     "react": "^19.0.0",
-    "react-dom": "^17.0.2",
+    "react-dom": "^19.0.0",
     "rimraf": "^5.0.5",
     "typescript": "^5.3.3"
   },
   "resolutions": {
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0"
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
@@ -78,6 +78,6 @@
     "react-multi-ref": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "^16.6.0 || ^17.0.0"
+    "react": "^19.0.0"
   }
 }
